@@ -3,7 +3,10 @@
 ## 📌 Project Overview
 Questo progetto esplora ed analizza il comportamento d'acquisto di **1.800 clienti e-commerce** per identificare i principali driver di fatturato, le dinamiche di conversione sui diversi dispositivi e i segmenti demografici più redditizi.
 
-L'analisi è stata condotta eseguendo query SQL direttamente su un database relazionale **PostgreSQL** (Neon.tech).
+* **Dataset:** [Online Shopping Customer Behavior (Kaggle)](https://www.kaggle.com/datasets/kojibrand/name-online-shopping-customer-behavior/data)
+* **Environment:** PostgreSQL gestito tramite istanza cloud **Neon.tech**
+
+---
 
 ---
 
