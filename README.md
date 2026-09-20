@@ -16,6 +16,9 @@ Questo progetto esplora ed analizza il comportamento d'acquisto di **1.800 clien
   * Arrotondamento dinamico per facilitare la reportistica (`ROUND`)
   * Segmentazione condizionale (`CASE WHEN`)
   * Filtraggio sui gruppi aggregati (`HAVING`)
+  * Common Table Expressions (`WITH`) per scomporre logiche di calcolo complesse in step leggibili
+  * Subquery scalari per il calcolo di soglie dinamiche (es. media tra gruppi aggregati)
+  * `CROSS JOIN` per combinare un valore singolo (soglia) con un set di righe aggregate
 
 ---
 
