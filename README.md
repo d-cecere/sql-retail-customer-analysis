@@ -91,7 +91,7 @@ ORDER BY fatturato_totale DESC;
 </details>
 
 
-## 📈 Key Insights & Business Recommendations
+## 📈 Insights & Raccomandazioni di Business
 
 ### 1. Optimization by Device Type
 * **Insight:** I dispositivi Desktop mostrano una spesa media e un tasso di conversione (articoli acquistati / visti) superiori rispetto ai dispositivi Mobile, nonostante il traffico mobile rappresenti una quota consistente degli utenti.
