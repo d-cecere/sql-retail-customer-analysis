@@ -8,6 +8,8 @@ Questo progetto esplora ed analizza il comportamento d'acquisto di **1.800 clien
 
 ---
 
+---
+
 ## 🛠️ Tech Stack & Concepts
 * **Database Engine:** PostgreSQL
 * **SQL Core Concepts:**
@@ -87,3 +89,18 @@ ORDER BY fatturato_totale DESC;
 ```
 
 </details>
+
+
+## 📈 Key Insights & Business Recommendations
+
+### 1. Optimization by Device Type
+* **Insight:** I dispositivi Desktop mostrano una spesa media e un tasso di conversione (articoli acquistati / visti) superiori rispetto ai dispositivi Mobile, nonostante il traffico mobile rappresenti una quota consistente degli utenti.
+* **Recommendation:** Ottimizzare la UX/UI del checkout su mobile per ridurre le frizioni d'acquisto e incrementare la conversione da smartphone.
+
+### 2. Demographic Value & Customer Targeting
+* **Insight:** La fascia d'età **Adult (30-49)** genera la quota maggioritaria del fatturato totale con un valore medio carrello elevato, seguita dal segmento **Young (<30)** che registra una frequenza d'acquisto costante.
+* **Recommendation:** Allocare il budget di retargeting principalmente sulla fascia 30-49 per prodotti ad alto margine, strutturando al contempo campagne di fidelizzazione per il segmento under 30.
+
+### 3. High-Value Product Categories
+* **Insight:** Le categorie chiave che superano la soglia di $50.000 di fatturato aggregato rappresentano il motore trainante dell'e-commerce, registrando il volume di articoli venduti più alto.
+* **Recommendation:** Garantire la disponibilità a magazzino per le top categorie ed elaborare strategie di cross-selling con le categorie secondarie per aumentarne i margini totali.
