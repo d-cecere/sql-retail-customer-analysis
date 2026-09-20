@@ -131,7 +131,7 @@ ORDER BY f.fatturato_totale DESC;
 | Sports | 311 | 1,362 | 237,449 | 233,551.00 |
 | Electronics | 294 | 1,310 | 233,801 | 233,551.00 |
 
-📥 [Scarica risultati completi (CSV)](results/output_category_analysis.csv)
+📥 [Scarica risultati completi (CSV)](results/output_top_product_categories.csv)
 
 </details>
 
