@@ -11,7 +11,7 @@ SELECT
     COUNT(customer_id) AS n_clienti,
     ROUND(AVG(total_spent_usd)::numeric, 2) AS spesa_media,
     ROUND(AVG(time_spent_minutes)::numeric, 1) AS tempo_medio_minuti,
-    ROUND(AVG(items_purchased::numeric / items_viewed), 2) AS tasso_conversione
+    ROUND(AVG(items_purchased::numeric / NULLIF(items_viewed, 0)), 2) AS tasso_conversione
 FROM customer_behavior
 WHERE total_spent_usd > 0
 GROUP BY device_type
