@@ -89,11 +89,11 @@ ORDER BY fatturato_totale DESC;
 </details>
 
 
-## 📈 Insights & Raccomandazioni di Business
+## 📈 Key Insights & Business Recommendations
 
 ### 1. Optimization by Device Type
-* **Insight:** I dispositivi Desktop mostrano una spesa media e un tasso di conversione (articoli acquistati / visti) superiori rispetto ai dispositivi Mobile, nonostante il traffico mobile rappresenti una quota consistente degli utenti.
-* **Recommendation:** Ottimizzare la UX/UI del checkout su mobile per ridurre le frizioni d'acquisto e incrementare la conversione da smartphone.
+* **Insight:** Tablet genera la spesa media più alta ($794.73) ma il tasso di conversione più basso (0.39), suggerendo un problema di "browsing intent" — molti utenti visualizzano prodotti senza completare l'acquisto. Mobile, al contrario, registra il miglior tasso di conversione (0.48) pur con la spesa media più bassa dei tre. Desktop si posiziona in una via di mezzo su entrambe le metriche.
+* **Recommendation:** Investigare le cause del basso tasso di conversione su Tablet (UX del checkout, tempi di caricamento, layout non ottimizzato) dato l'alto valore medio degli utenti su questo dispositivo. Su Mobile, dove la conversione è già buona, puntare su azioni per aumentare lo scontrino medio (es. cross-selling, bundle).
 
 ### 2. Demographic Value & Customer Targeting
 * **Insight:** La fascia d'età **Adult (30-49)** genera la quota maggioritaria del fatturato totale con un valore medio carrello elevato, seguita dal segmento **Young (<30)** che registra una frequenza d'acquisto costante.
