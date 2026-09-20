@@ -8,8 +8,6 @@ Questo progetto esplora ed analizza il comportamento d'acquisto di **1.800 clien
 
 ---
 
----
-
 ## 🛠️ Tech Stack & Concepts
 * **Database Engine:** PostgreSQL
 * **SQL Core Concepts:**
